@@ -5,9 +5,4 @@ s2 = 'Hello,\'MIKE\''
 s3 = r'Hello,"Bart"'
 s4 = r'''HELLO,
 Lisa!'''
-print('''n
-f
-s1
-s2
-s3
-s4''')
+print(n,f,s1,s2,s3,s4)
