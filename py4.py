@@ -1,1 +1,12 @@
-print("包含中文的str")
+#-*- coding: utf-8 -*-
+a = input=(len('ABC')
+b = input=(len('中文'))
+c = input=(len(b'ABC'))
+d = input=(len(b'\xe4\xb8\xad\xe6\x96\x87'))
+e = input=(len('中文'.encode('utf-8')))
+a1 =int(a)
+a2 =int(b)
+a3 =int(c)
+a4 =int(d)
+a5 =int(e)
+print (a1,a2,a3,a4,a5)
