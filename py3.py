@@ -9,5 +9,5 @@ elif 25 <bmi< 28:
 	print("过重")
 elif 28 <bmi< 32:
 	print("肥胖")
-elif bmi> 32:
+else:
 	print("严重肥胖")
