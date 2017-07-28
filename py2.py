@@ -1,5 +1,5 @@
-age = int(input("please input your age :"))
-if age >= 18 :
-	print("you are an adult")
-else :
-	print("you are not an adult")
+print ('grade of xiaoming')
+s1 = 72
+s2 = 85
+r = (s2 -s1)/s1*100
+print ('is %f %%'%r)
